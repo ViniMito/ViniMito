@@ -17,6 +17,7 @@
   <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="right" alt="Vini-pic" height="150" style="border-radius:70px;" src="https://cdn.discordapp.com/attachments/852228226255552583/956976985387708456/33037574_242645019838945_7806789817160695808_n.jpg?width=720&height=1920">
 </div>
   
