@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Vinícius Alves Oliveira 👋
 
 - 🔭 Estou em busca de um estágio ou emprego, na área de Desenvolvimento Web
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas, e estou aprendendo JavaScript e TypeScript
+- 🎓 Estudo Análise e Desenvolvimento de Sistemas, e estou aprendendo JavaScript e TypeScript
 - 😄 Pronomes: Ele/Dele
 - ⚾🎮🎵🎹
 - <div style="display: inline_block" > 📱📞 Contate me rapidamente aqui: &nbsp;
