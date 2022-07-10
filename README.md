@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Vinícius Alves Oliveira 👋
 
-- 🦖 Atualmente trabalho como Estagiário como Desenvolvedor COBOL 
+- 🦖 Atualmente trabalho de Estagiário como Desenvolvedor COBOL 
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
 - 🐤🐟 Tenho treinado bastante JavaScript e TypeScript
 - ⚾🎮🎵🎹
