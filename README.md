@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Vinícius Alves Oliveira 👋
 
-- 🔭 Estou em busca de um estágio ou emprego, na área de Desenvolvimento Web
-- 🎓 Estou cursando Análise e Desenvolvimento de Sistemas, e estou aprendendo JavaScript e TypeScript
-- 😄 Pronomes: Ele/Dele
+- 🦖 Atualmente trabalho como Estagiário como Desenvolvedor COBOL 
+- 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
+- 🐤🐟 Tenho treinado bastante JavaScript e TypeScript
 - ⚾🎮🎵🎹
 - <div style="display: inline_block" > 📱📞 Contate me rapidamente aqui: &nbsp;
   <a href="https://api.whatsapp.com/send?phone=5561993393314&text=Olá..."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
