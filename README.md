@@ -14,6 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vin4s&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   <div style="display: inline_block"><br>
+  <img align="center" alt="Vini-COBOL" height="30" width="40" src="https://cdn.discordapp.com/attachments/957441400935444550/1064990936607768668/file_type_cobol_icon_130684.png">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,6 +23,7 @@
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Vini-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Vini-NODE" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg">
+  <img align="center" alt="Vini-VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Vini-POST" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg">
   <img align="right" alt="Vini-pic" height="150" style="border-radius:70px;" src="https://cdn.discordapp.com/attachments/852228226255552583/956976985387708456/33037574_242645019838945_7806789817160695808_n.jpg?width=720&height=1920">
 </div>
