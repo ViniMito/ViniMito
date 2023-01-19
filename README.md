@@ -28,7 +28,7 @@
   <img align="center" alt="Vini-NODE" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg">
   <img align="center" alt="Vini-VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Vini-POST" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg">
-  <img align="right" alt="Vini-pic" height="150" style="border-radius:70px;" src="https://cdn.discordapp.com/attachments/852228226255552583/956976985387708456/33037574_242645019838945_7806789817160695808_n.jpg?width=720&height=1920">
+  <img align="right" alt="Vini-pic" height="150" style="border-radius:70px;" src="https://cdn.discordapp.com/attachments/957441400935444550/1065657066456350720/picasion.com_c9509b17d8bab7d5161c7d92eb3730ae.gif?width=720&height=1920">
   </div>
   
   ##
