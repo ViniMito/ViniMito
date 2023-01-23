@@ -7,8 +7,8 @@
 - <div style="display: inline_block" > 📱📞 Contate me rapidamente aqui: &nbsp;
   <a href="https://api.whatsapp.com/send?phone=5561993393314&text=Olá..."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  
-  </div>
-<div> <img align="center" scr="https://github-readme-stats.vercel.app/api?username=Vin4s&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true">
+  </div style="display: inline_block">
+<img align="center" scr="https://github-readme-stats.vercel.app/api?username=Vin4s&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true">
   </div>
   
   ##
