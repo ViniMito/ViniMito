@@ -8,9 +8,9 @@
   <a href="https://api.whatsapp.com/send?phone=5561993393314&text=Olá..."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  
   <div align="center">
-<img height="180em" scr="https://github-readme-stats.vercel.app/api?username=Vin4s&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-    
-  </div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vin4s&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vin4s&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+ </div>
   
   ##
   
