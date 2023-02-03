@@ -33,31 +33,31 @@
   <a href="https://www.linkedin.com/in/olivervini"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     
   <details>
-    <summary> <img align="left" alt="Vini-cert" height="20" width="30" src="https://cdn.discordapp.com/attachments/848296813739114527/1071102085208223854/curriculum_vitae_icon_129369_1.png"> CERTIFICADOS </summary>
+    <summary> 📑 CERTIFICADOS </summary>
     
-- Ensino Superior em Tecnologia - Analise e Desenvolvimento de Sistemas (Cruzeiro do Sul)
+      - Ensino Superior em Tecnologia - Analise e Desenvolvimento de Sistemas (Cruzeiro do Sul)
 
-- Curso de programação em COBOL ( Udemy Academy - CFP)
+      - Curso de programação em COBOL ( Udemy Academy - CFP)
 
-- Algoritimo, Lógica de Programação – CODER (Udemy Academy);
+      - Algoritimo, Lógica de Programação – CODER (Udemy Academy);
 
--  Evento IGTI, Dev Summit III – Front-end/Mobile, Full Stack/Arquitetura e Gestão de TI/Transformação Digital;
+      -  Evento IGTI, Dev Summit III – Front-end/Mobile, Full Stack/Arquitetura e Gestão de TI/Transformação Digital;
 
-- Evento IGTI, Cyber Security Experience – Syber Security e Governança & Compliance;
+      - Evento IGTI, Cyber Security Experience – Syber Security e Governança & Compliance;
+ 
+      - Evento IGTI, Disruptive Revolution II – Tecnologias Disruptivas, Negócios Exponenciais e Cultura Digital;
 
-- Evento IGTI, Disruptive Revolution II – Tecnologias Disruptivas, Negócios Exponenciais e Cultura Digital;
+      - Desenvolvimento e Publicação de Aplicativo web – Java com Spring Boot no Back-end e TypeScript com ReactJS no Front-end;
 
-- Desenvolvimento e Publicação de Aplicativo web – Java com Spring Boot no Back-end e TypeScript com ReactJS no Front-end;
+      - Certificado de conclusão do treinamento O mercado de cartões (CardMonitor)
 
-- Certificado de conclusão do treinamento O mercado de cartões (CardMonitor)
+      - Curso Básico para treinamento e orientação do Brigadista na Suprema Proteção contra o Incêndio;
 
-- Curso Básico para treinamento e orientação do Brigadista na Suprema Proteção contra o Incêndio;
+      - Curso de formação profissional com certificado em Prevenção de Acidentes;
 
-- Curso de formação profissional com certificado em Prevenção de Acidentes;
+      - Curso básico de música e piano – Escola Municipal de Música Adilson Menezes;
 
-- Curso básico de música e piano – Escola Municipal de Música Adilson Menezes;
-
-- Curso de Nivel 1 em Snowboard na Escola de Neve Snowland.
+      - Curso de Nivel 1 em Snowboard na Escola de Neve Snowland.
     
     </details>
     
