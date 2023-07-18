@@ -61,7 +61,7 @@
     
     </details>
     
- ![Snake animation](https://github.com/ViniMito/ViniMito/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Vin4s/Vin4s/blob/output/github-contribution-grid-snake.svg)
     
 </div>
 
